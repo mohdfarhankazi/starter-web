@@ -1,1 +1,3 @@
-*.exe
+Some_Local_File.exe
+*.log
+log/
