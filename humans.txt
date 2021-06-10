@@ -4,6 +4,10 @@
 # TEAM
 
     Jason Taylor jason@git.training @awesomejt
+    You should know practical day to day know how 
+    to use Git for project work. I recommend you to 
+    go throunh Jason Taylor tutorial for gaining 
+   quick working skills to complete day to day work. 
 
 # THANKS
 
