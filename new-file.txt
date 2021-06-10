@@ -1,1 +1,2 @@
-JUST Test for git ls-files
+JUST Test for git ls-files.
+I have changed this file
